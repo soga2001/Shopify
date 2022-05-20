@@ -1,5 +1,5 @@
 # Shopify
-View Deployed [Website](https://6286f59b915e75618dcff6a2--papaya-melba-66a2bd.netlify.app/)
+View Deployed [Website](https://dreamy-sunflower-e5bd4a.netlify.app/)
 # How to Run
 1. Clone this repositiory to your device
 2.       npm install     // install dependencies
