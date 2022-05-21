@@ -17,7 +17,7 @@ export function Form() {
         const newData = {
             prompt: (document.getElementById("text") as HTMLInputElement).value,
             temperature: 0,
-            max_tokens: 64
+            max_tokens: 128
         };
         const fetchData = fetch("https://api.openai.com/v1/engines/text-curie-001/completions", {
             method: "POST",
@@ -81,7 +81,6 @@ export function Form() {
                 <datalist id="default">
                     <option value={"Cat"}/>
                     <option value={"Dog"}/>
-                    <option value={"Airplane"}/>
                     <option value={"Ocean"}/>
                     <option value={"Space"}/>
                     <option value={"Milky Way Galaxy"}/>

@@ -10,7 +10,7 @@ export const Choice: React.FC<ChoicesProps> = (item: ChoicesProps) => {
     return(
         <div id='response'>
             <span id='title'>Response: </span>
-            <span>{item.item.text} {item.item.finish_reason}</span>
+            <span>{item.item.text}</span>
         </div>
     )
 }
