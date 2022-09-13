@@ -1,5 +1,5 @@
 # Shopify
-View Deployed [Website](https://dreamy-sunflower-e5bd4a.netlify.app/)
+<!--- View Deployed [Website](https://dreamy-sunflower-e5bd4a.netlify.app/) --->
 # Requirements
         Nodejs v18.2.0
 # How to Run
